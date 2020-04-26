@@ -1,2 +1,2 @@
 # android_template
-A template for Android custom ROMs
+A bassic template for Android custom ROMs created for PixelExperience redesign contest, feel free to use and pull request.
